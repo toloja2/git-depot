@@ -9,3 +9,9 @@ bpdy
 {
     background-color: rgb(107, 107, 218);
 }
+
+h1
+{
+    color: red;
+    align-items: center;
+}
